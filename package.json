@@ -1,6 +1,6 @@
 {
   "name": "wdio-jsbin",
-  "version": "2.0.3",
+  "version": "2.0.5",
   "description": "Webdriverio plugin for browser console logs",
   "main": "index.js",
    "repository": {
