@@ -3,9 +3,9 @@
   "version": "2.0.3",
   "description": "Webdriverio plugin for browser console logs",
   "main": "index.js",
-  "repository": {
+   "repository": {
     "type": "git",
-    "url": "\"\""
+    "url": "https://github.com/soniajasuja/wdio-jsbin"
   },
   "scripts": {
     "build": "babel src -d build"
